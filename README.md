@@ -9,4 +9,4 @@ Published ***
 
 Summary statistics to be used for LepR-ePRS generation in PFC and hypothalamus.
 
-ePRS geretaion protocol from https://github.com/SilveiraLab/ePRS can be applied.
+ePRS generation protocol from https://github.com/SilveiraLab/ePRS can be applied.
