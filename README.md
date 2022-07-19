@@ -7,6 +7,6 @@ Randriely Merscher Sobreira de Lima, Barbara Barth, Danusa Mar Arcego, Euclides 
 Published ***
 
 
-Summary statistics to be used for LepR-ePRS generation in PFC and hypothalamus.
+Summary statistics to be used for LepR-ePRS generation in PFC and hypothalamus. Annotation is on GRCh37.
 
 ePRS generation protocol from https://github.com/SilveiraLab/ePRS can be applied.
